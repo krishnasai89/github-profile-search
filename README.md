@@ -1,1 +1,1 @@
-"# github-profile-search" 
+# github-profile-search
